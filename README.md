@@ -12,3 +12,4 @@ At the predetermined block height, Bitcoin Gold miners will begin creating block
 * Website: http://btcgpu.org
 * Slack: [invitation](https://join.slack.com/t/bitcoin-gold/shared_invite/enQtMjY1MzkzMzUxNjY4LWM1YmQ4MjZhZTQxMWE1ZDQyNjA4N2QwZTkyZjYzMjhiMzdlMmVkNjQ3NzZlZDdmMDE4NWIyY2JmYzdjYmE2MzA)
 * TODO-list: https://trello.com/b/P1rLw1G9/bitcoin-gold-todos
+
